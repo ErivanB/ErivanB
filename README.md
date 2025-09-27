@@ -1,6 +1,14 @@
-# Olá, sou o Erivan Barros! 🤖
 
-Sou estudante de tecnologia, com uma base sólida em infraestrutura e redes de computadores, e atualmente aprofundando meus conhecimentos em desenvolvimento de software por meio de **Análise e Desenvolvimento de Sistemas (ADS)**.
+<div align="right">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+# Olá, sou o Erivan Barros
+
+*Estudante de Tecnologia (Foco em DevOps/Redes → ADS/Desenvolvimento).*
+
+Este GitHub é o meu laboratório digital: um registro completo de todo o conhecimento e projetos aplicados no curso de Análise e Desenvolvimento de Sistemas, além de ser o espaço para meus projetos pessoais de exploração tecnológica.
+
 
 ---
 
@@ -30,14 +38,17 @@ _ _ _
 
 Tenho experiência prática e proficiência nas seguintes tecnologias:
 
+
+
+
+###
+
 ### Linguagens & Back-end
 
 * **Python:** Para scripts, análise de dados e desenvolvimento de aplicações.
 * **Pandas:** Domínio na manipulação e análise de dados.
 * **Java:** Linguagem principal para desenvolvimento de aplicações robustas.
 * **Spring Boot:** Experiência no desenvolvimento de microsserviços e APIs com Java.
-
-
 
 ### DevOps & Infraestrutura
 
@@ -78,11 +89,24 @@ Busco oportunidades para aplicar meus conhecimentos em **Python, Java/Spring Boo
 
 ###
 
+
+
+
 <div align="center">
 
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ErivanB&"  />
 </div>
 
 ###

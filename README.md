@@ -1,4 +1,4 @@
-# Olá, sou o Erivan Barros! 👋
+# Olá, sou o Erivan Barros! 🤖
 
 Sou estudante de tecnologia, com uma base sólida em infraestrutura e redes de computadores, e atualmente aprofundando meus conhecimentos em desenvolvimento de software por meio de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
@@ -13,12 +13,16 @@ Sou estudante de tecnologia, com uma base sólida em infraestrutura e redes de c
 | **Técnico** | Técnico em Suporte e Manutenção em Informática | Formado |
 
 Minha trajetória começou com a parte de hardware e redes, o que me oferece uma visão completa do ciclo de vida do software e da infraestrutura.
+_ _ _
+### 👨‍💻 Destaque Profissional 
 
-### Destaque Profissional - Redes de Computadores (10 Anos)
+### Redes de Computadores (10 Anos) 🕸️
+
 * **Especialista em Projetos FTTH:** Expertise na construção e manutenção de projetos de Fibra Óptica (Fiber-to-the-Home) em larga escala.
 * **Infraestrutura e Roteamento:** Proficiência em equipamentos e soluções de rede utilizando:
+
     * **CISCO**
-    * **Mikrotik**
+    * **MIKROTIK**
     * **Intelbras**
 ---
 
@@ -33,6 +37,8 @@ Tenho experiência prática e proficiência nas seguintes tecnologias:
 * **Java:** Linguagem principal para desenvolvimento de aplicações robustas.
 * **Spring Boot:** Experiência no desenvolvimento de microsserviços e APIs com Java.
 
+
+
 ### DevOps & Infraestrutura
 
 * **Docker:** Uso na criação, empacotamento e distribuição de aplicações em contêineres, garantindo portabilidade.
@@ -41,6 +47,24 @@ Tenho experiência prática e proficiência nas seguintes tecnologias:
 
 ### Banco de Dados
 * **PostgreSQL:** SGBD relacional que utilizo para projetos que exigem performance e confiabilidade.
+
+
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+</div>
 
 ---
 
@@ -52,5 +76,13 @@ Busco oportunidades para aplicar meus conhecimentos em **Python, Java/Spring Boo
 
 **Conecte-se comigo!**
 
-* [Adicione o link do seu LinkedIn aqui]
-* [Adicione o link do seu Email ou outra rede social aqui]
+###
+
+<div align="center">
+
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###

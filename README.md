@@ -24,6 +24,7 @@ Minha trajetória começou com a parte de hardware e redes, o que me oferece uma
 _ _ _
 ### 👨‍💻 Destaque Profissional 
 
+
 ### Redes de Computadores (10 Anos) 🕸️
 
 * **Especialista em Projetos FTTH:** Expertise na construção e manutenção de projetos de Fibra Óptica (Fiber-to-the-Home) em larga escala.

@@ -53,7 +53,8 @@ Tenho experiência prática e proficiência nas seguintes tecnologias:
 
 ### DevOps & Infraestrutura
 
-* **Docker:** Uso na criação, empacotamento e distribuição de aplicações em contêineres, garantindo portabilidade.
+* **Docker e Docker Compose:** Uso na criação, empacotamento e distribuição de aplicações em contêineres, garantindo portabilidade.
+  
 
 * **Kubernetes:** Experiência em orquestração de contêineres e deploy de aplicações em ambientes escaláveis.
 
